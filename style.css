@@ -1,0 +1,34 @@
+body{
+    background: red;
+}
+p{
+    color:orange
+}
+div{
+    border-width: 1px;
+    border-style: solid;
+    
+}
+.comments{
+    font-weight: bold;
+    color: palegreen;
+}
+#dolphin{
+    font-style: italic;
+    color: pink;
+}
+.first{
+    font-size: 40px;
+}
+.second{
+    color: pink;
+}
+li{
+    text-align: center;
+}
+li.why{
+    font-family: 'Courier New', Courier, monospace;
+}
+li#not{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
